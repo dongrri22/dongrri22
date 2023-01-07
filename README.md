@@ -1,5 +1,10 @@
-### Hi there 👋 I'm majoring in software engineering. I'm currently learning front-end development.
-## Stacks
+### I majored in software engineering. 
+### I'm currently learning front-end development.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongrri22&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dongrri22&layout=compact)](https://github.com/dongrri22/github-readme-stats)
+
+### Stacks
 <div align=center> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white">
@@ -12,9 +17,6 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 </div>
 
-<div align=center>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongrri22&show_icons=true&theme=radical)
-</div>
 <!--
 **dongrri22/dongrri22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
