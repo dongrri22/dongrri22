@@ -1,8 +1,8 @@
 <div align=center>
   <div>
     <h3>✨I majored in software engineering. I'm currently learning front-end development.</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=dongrri22&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongrri22&layout=compact&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=dongrri22&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongrri22&layout=compact"/>
   </div>             
   <div>
     <h3>✨Stacks</h3>
